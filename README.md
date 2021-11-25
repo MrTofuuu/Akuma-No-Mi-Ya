@@ -151,6 +151,12 @@ You'll need to execute association methods on your Sequelize models to create th
 [Link to the code repository](https://github.com/MrTofuuu/akuma-no-mi-ya)
 
 
+https://user-images.githubusercontent.com/84428685/143388737-f9590e5e-ae8b-48eb-9fbd-d14c501ad643.mp4
+
+
+https://user-images.githubusercontent.com/84428685/143388765-7ff491e9-3364-4961-ae74-c546095a4126.mp4
+
+[Testing all get routes](https://watch.screencastify.com/v/2jD29ykY2Bhmuo29rVNB)
 
 ## Credits
 
